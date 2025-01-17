@@ -87,7 +87,7 @@ class PatchOptionsModel(
             packageName = packageName,
             debuggable = debuggable,
             // TODO: advanced icon options
-            iconReplacement = PatchOptions.IconReplacement.Aliucord,
+            iconReplacement = PatchOptions.IconReplacement.Original,
             monochromeIcon = true,
         )
     }
